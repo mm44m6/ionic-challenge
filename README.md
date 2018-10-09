@@ -21,10 +21,10 @@ Ah, e não se esqueça que cada lista de filmes deve ser um componente isolado.
 
 Ao clicar no filme, a pessoa deve ser levada para uma nova página que irá conter mais informações sobre o filme selecionado como sinopse, ano de lançamento e etc. Além de um icone para que a pessoa favorite aquele filme (Lembra da lista obrigatória que teremos na Home? Isso será usado para popular a mesma. Faça uma relação com os filmes favoritados do usuário no Firebase utilizando o Firestore :wink:).
 
-Algumas coisas adicionais que seu projeto precisa ter, obrigatóriamente:
+Algumas coisas adicionais que seu projeto precisa ter, obrigatoriamente:
 
 - Sass;
-- Teste unitários (Aqui você é livre pra usar o que quiser. Quer ir de Karma + Jasmine? Quer se aventurar no Jest? Quer sair da curva com Chai + Mocha? Não importa, só queremos que você teste. :heart:);
+- Testes unitários (Aqui você é livre pra usar o que quiser. Quer ir de Karma + Jasmine? Quer se aventurar no Jest? Quer sair da curva com Chai + Mocha? Não importa, só queremos que você teste. :heart:);
 - Splashscreen + Icones;
 - Tem que usar a paleta de cores e fonte que são especificada nesse repositório;
 - Tem que funcionar no Android **e** no iOS.
