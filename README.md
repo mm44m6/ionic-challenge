@@ -29,6 +29,19 @@ Algumas coisas adicionais que seu projeto precisa ter, obrigatóriamente:
 - Tem que usar a paleta de cores e fonte que são especificada nesse repositório;
 - Tem que funcionar no Android **e** no iOS.
 
+## tl;dr 
+
+- Crie uma página de login e uma de cadastro com integração do Firebase Authentication;
+- Integre o plugin de [Fingerprint](https://ionicframework.com/docs/native/fingerprint-aio/)/[Touch ID](https://ionicframework.com/docs/native/touch-id/) com o login;
+- Crie uma home com categorias de filmes diversas (consumindo a API [MovieDB](https://developers.themoviedb.org/3/getting-started/introduction));
+- Crie, na home, uma categoria de "Favoritos";
+- Crie uma página que contem os detalhes do filme selecionado na home;
+- Na página de detalhes, crie um botão de favoritar;
+- Faça uma relação de usuários x filmes favoritados no Firestore do Firebase e depois consuma a mesma no aplicativo;
+- Estilize seu app com a paleta de cores e fonte informadas aqui;
+- Acrescente testes unitários;
+- Acrescente Splashscreen e icones.
+
 ## Estilos
 
 ### Paleta de cores
