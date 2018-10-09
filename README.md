@@ -24,7 +24,7 @@ Ao clicar no filme, a pessoa deve ser levada para uma nova página que irá cont
 Algumas coisas adicionais que seu projeto precisa ter, obrigatóriamente:
 
 - Sass;
-- Teste unitários (Aqui você é aberto pra usar o que quiser. Quer ir de Karma + Jasmine? Quer se aventurar no Jest? Quer sair da curva com Chai + Mocha? Não importa, só queremos que você teste. :heart:);
+- Teste unitários (Aqui você é livre pra usar o que quiser. Quer ir de Karma + Jasmine? Quer se aventurar no Jest? Quer sair da curva com Chai + Mocha? Não importa, só queremos que você teste. :heart:);
 - Splashscreen + Icones;
 - Tem que usar a paleta de cores e fonte que são especificada nesse repositório;
 - Tem que funcionar no Android **e** no iOS.
