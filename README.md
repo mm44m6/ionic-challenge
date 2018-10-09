@@ -17,6 +17,8 @@ A unica coisa obrigatória aqui é que no topo de todas as listas deverá ter um
 
 Ah, e não se esqueça que cada lista de filmes deve ser um componente isolado.
 
+[Exemplo de lista horizontal e componente.](https://www.imageupload.co.uk/images/2018/10/09/F28459C8-3212-472D-86D4-1616734C84AE.png)
+
 Ao clicar no filme, a pessoa deve ser levada para uma nova página que irá conter mais informações sobre o filme selecionado como sinopse, ano de lançamento e etc. Além de um icone para que a pessoa favorite aquele filme (Lembra da lista obrigatória que teremos na Home? Isso será usado para popular a mesma. Faça uma relação com os filmes favoritados do usuário no Firebase utilizando o Firestore :wink:).
 
 Algumas coisas adicionais que seu projeto precisa ter, obrigatóriamente:
